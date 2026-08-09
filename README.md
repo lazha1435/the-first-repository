@@ -11,3 +11,9 @@ Run:
 ```
 
 See [WORKFLOW.md](WORKFLOW.md) for the short version.
+
+For a quick backup of the whole workspace, run:
+
+```powershell
+.\scripts\Backup-Workspace.ps1
+```
