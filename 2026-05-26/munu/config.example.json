@@ -1,0 +1,8 @@
+{
+  "adb_path": "",
+  "devices": [],
+  "max_workers": 9,
+  "loop_interval_seconds": 3,
+  "max_failures": 3,
+  "tap_center_after_screenshot": false
+}
